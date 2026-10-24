@@ -1,0 +1,14 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+terraform.tfvars
+*.auto.tfvars
+
+# Secrets and private keys
+*.pem
+*.key
+.env
+.aws/
